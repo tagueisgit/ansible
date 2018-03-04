@@ -5,7 +5,7 @@
   - name: Install packages
     yum: name={{item}}
     with_items:
-      - htop
+  - htop
   - mc
   - inxi
   - lynx
