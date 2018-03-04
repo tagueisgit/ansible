@@ -1,7 +1,0 @@
-- hosts: localhost
-  become: true
-  tasks:
-  - name: Install htop
-    yum: name=htop
-  - name: Install inxi
-    yum: name=inxi
