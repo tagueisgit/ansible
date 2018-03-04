@@ -6,5 +6,6 @@
     apt: name={{item}}
     with_items:
       - htop
-      - mc
-      - inxi
+  - mc
+  - inxi
+  - lynx
