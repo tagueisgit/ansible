@@ -16,3 +16,4 @@
     - python-pip
     - clamav
     - freshclam
+    - finger
