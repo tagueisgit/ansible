@@ -15,4 +15,4 @@
     - qemu
     - python-pip
     - clamav
-    - clamd
+    - freshclam
