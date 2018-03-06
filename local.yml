@@ -14,6 +14,5 @@
     - kubernetes
     - qemu
     - python-pip
-    - maybe
     - clamav
     - clamd
