@@ -11,3 +11,5 @@
     - lynx
     - tripwire
     - docker
+    - kubernetes
+    - qemu
