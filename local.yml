@@ -13,3 +13,5 @@
     - docker
     - kubernetes
     - qemu
+    - python-pip
+    - maybe
